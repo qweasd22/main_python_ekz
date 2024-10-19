@@ -49,6 +49,8 @@ def open_file():
 
 # Создание окна Tkinter
 root = tk.Tk()
+root.title("Обнаружение лиц")
+root.state('zoomed')
 
 
 # Кнопка для выбора файла
