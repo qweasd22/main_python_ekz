@@ -1,4 +1,4 @@
 python -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\.venv\Scripts\activate
-Определение лиц на фото или видео 
+/n Определение лиц на фото или видео 
